@@ -1,0 +1,2 @@
+figure;imagesc(y);colormap gray;axis image;colorbar;set(gcf,'color','w');
+caxis([0,255])
